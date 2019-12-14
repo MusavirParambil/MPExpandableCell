@@ -1,0 +1,410 @@
+
+[
+    {
+        "name": "rings",
+        "sub_category": [
+            {
+                
+                "name": "engagement",
+                "display_name": "Engagement"
+            },
+            {
+                
+                "name": "band-couple band",
+                "display_name": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed scelerisque aliquet arcu, sed placerat turpis. Sed vulputate finibus nisi, nec gravida turpis consectetur quis. Nullam quis vestibulum ex. Integer lacinia quam sed rutrum tempus. Sed quis metus mollis, euismod ipsum in, vulputate turpis. Fusce suscipit ligula in efficitur interdum. Sed ante velit, vulputate nec nibh commodo, tempus molestie eros. Etiam consequat enim nisi, a mollis nisi gravida et. Fusce scelerisque ex vitae turpis fermentum facilisis."
+            },
+            {
+                
+                "name": "Navaratnam+Collection",
+                "display_name": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed scelerisque aliquet arcu, sed placerat turpis."
+            },
+            {
+                
+                "name": "cocktail",
+                "display_name": "Lorem ipsum dolor sit amet"
+            },
+            {
+                
+                "name": "below+15000",
+                "display_name": "Under 15,000/-"
+            },
+            {
+                
+                "name": "hearts",
+                "display_name": "Heart Rings"
+            },
+            {
+                
+                "name": "halo",
+                "display_name": "Halo Rings"
+            },
+            {
+                "name": "view all",
+                "display_name": "View All"
+            }
+        ]
+    },
+    {
+        "name": "earrings",
+        "sub_category": [
+            {
+                
+                "name": "studs",
+                "display_name": "Studs"
+            },
+            {
+                "name": "drops",
+                "display_name": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed scelerisque aliquet arcu, sed placerat turpis. Sed vulputate finibus nisi, nec gravida turpis consectetur quis. Nullam quis vestibulum ex. Integer lacinia quam sed rutrum tempus. Sed quis metus mollis, euismod ipsum in, vulputate turpis. Fusce suscipit ligula in efficitur interdum. Sed ante velit, vulputate nec nibh commodo, tempus molestie eros. Etiam consequat enim nisi, a mollis nisi gravida et. Fusce scelerisque ex vitae turpis fermentum facilisis."
+            },
+            {
+                
+                "name": "hoops",
+                "display_name": "Hoops"
+            },
+            {
+                "name": "jhumki",
+                "display_name": "Jhumkis"
+            },
+            {
+                "name": "sui dhaga",
+                "display_name": "Sui-dhaga"
+            },
+            {
+                "name": "pearl",
+                "display_name": "Pearl"
+            },
+            {
+                "name": "below 15000",
+                "display_name": "Less Than 15,000/-"
+            },
+            {
+                "name": "view all",
+                "display_name": "View All"
+            }
+        ]
+    },
+    {
+        "name": "pendants",
+        "sub_category": [
+            {
+                "name": "alphabet",
+                "display_name": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed scelerisque aliquet arcu, sed placerat turpis."
+            },
+            {
+                "name": "religious",
+                "display_name": "Religious"
+            },
+            {
+                "name": "hearts",
+                "display_name": "Hearts"
+            },
+            {
+                "name": "diamond and colored stones",
+                "display_name": "Gemstone Pendants"
+            },
+            {
+                "name": "single stone-only diamond",
+                "display_name": "Single Diamond Pendants"
+            },
+            {
+                "name": "floral",
+                "display_name": "Floral"
+            },
+            {
+                "name": "locket",
+                "display_name": "Lockets"
+            },
+            {
+                "name": "view all",
+                "display_name": "View All"
+            }
+        ]
+    },
+    {
+        "name": "bangles",
+        "sub_category": [
+            {
+                "name": "round bangle",
+                "display_name": "Round"
+            },
+            {
+                "name": "oval bangle",
+                "display_name": "Oval"
+            },
+            {
+                "name": "eternity",
+                "display_name": "Eternity"
+            },
+            {
+                "name": "yellow gold",
+                "display_name": "Gold"
+            },
+            {
+                "name": "wedding",
+                "display_name": "Bridal"
+            },
+            {
+                "name": "view all",
+                "display_name": "View All"
+            }
+        ]
+    },
+    {
+        "name": "bracelets",
+        "sub_category": [
+            {
+                "name": "yellow gold",
+                "display_name": "Gold"
+            },
+            {
+                "name": "only diamond",
+                "display_name": "Diamond"
+            },
+            {
+                "name": "floral",
+                "display_name": "Floral"
+            },
+            {
+                "name": "view all",
+                "display_name": "View All"
+            }
+        ]
+    },
+    {
+        "name": "nose pins",
+        "sub_category": [
+            {
+                "name": "yellow gold",
+                "display_name": "Gold"
+            },
+            {
+                "name": "only diamond",
+                "display_name": "Diamond"
+            },
+            {
+                "name": "only coloured stone",
+                "display_name": "Gem Stone"
+            },
+            {
+                "name": "view all",
+                "display_name": "View All"
+            }
+        ]
+    },
+    {
+        "name": "necklaces",
+        "sub_category": [
+            {
+                "name": "yellow gold",
+                "display_name": "Gold"
+            },
+            {
+                "name": "wedding",
+                "display_name": "Bridal"
+            },
+            {
+                "name": "view all",
+                "display_name": "View All"
+            }
+        ]
+    },
+    {
+        "name": "tanmaniya",
+        "sub_category": [
+            {
+                "name": "only diamond",
+                "display_name": "Diamond"
+            },
+            {
+                "name": "ruby",
+                "display_name": "Ruby"
+            },
+            {
+                "name": "below 50000",
+                "display_name": "Under 50,000/-"
+            },
+            {
+                "name": "view all",
+                "display_name": "View All"
+            }
+        ]
+    },
+    {
+        "name": "only diamond",
+        "sub_category": [
+            {
+                "name": "rings",
+                "display_name": "Rings"
+            },
+            {
+                "name": "earrings",
+                "display_name": "Earrings"
+            },
+            {
+                "name": "pendants",
+                "display_name": "Pendants"
+            },
+            {
+                "name": "bangles",
+                "display_name": "Bangles"
+            },
+            {
+                "name": "bracelets",
+                "display_name": "Bracelets"
+            },
+            {
+                "name": "necklaces",
+                "display_name": "Necklaces"
+            },
+            {
+                "name": "nose pins",
+                "display_name": "Nose Pins"
+            },
+            {
+                "name": "view all",
+                "display_name": "View All"
+            }
+        ]
+    },
+    {
+        "name": "plain gold jewellery",
+        "sub_category": [
+            {
+                "name": "rings",
+                "display_name": "Rings"
+            },
+            {
+                "name": "earrings",
+                "display_name": "Earrings"
+            },
+            {
+                "name": "pendants",
+                "display_name": "Pendants"
+            },
+            {
+                "name": "bangles",
+                "display_name": "Bangles"
+            },
+            {
+                "name": "bracelets",
+                "display_name": "Bracelets"
+            },
+            {
+                "name": "necklaces",
+                "display_name": "Necklaces"
+            },
+            {
+                "name": "nose pins",
+                "display_name": "Nose Pins"
+            },
+            {
+                "name": "view all",
+                "display_name": "View All"
+            }
+        ]
+    },
+    {
+        "name": "diamond and colored stones",
+        "sub_category": [
+            {
+                "name": "rings",
+                "display_name": "Rings"
+            },
+            {
+                "name": "earrings",
+                "display_name": "Earrings"
+            },
+            {
+                "name": "pendants",
+                "display_name": "Pendants"
+            },
+            {
+                "name": "bangles",
+                "display_name": "Bangles"
+            },
+            {
+                "name": "bracelets",
+                "display_name": "Bracelets"
+            },
+            {
+                "name": "necklaces",
+                "display_name": "Necklaces"
+            },
+            {
+                "name": "nosepins",
+                "display_name": "Nosepins"
+            },
+            {
+                "name": "tanmaniyas",
+                "display_name": "Tanmaniyas"
+            },
+            {
+                "name": "view all",
+                "display_name": "View All"
+            }
+        ]
+    },
+    {
+        "name": "platinum",
+        "sub_category": [
+            {
+                "name": "single stone",
+                "display_name": "Single Stone"
+            },
+            {
+                "name": "multistone",
+                "display_name": "Multi Stone"
+            },
+            {
+                "name": "single stone",
+                "display_name": "Single Stone"
+            },
+            {
+                "name": "view all",
+                "display_name": "View All"
+            }
+        ]
+    },
+    {
+        "name": "men",
+        "sub_category": [
+            {
+                "name": "rings",
+                "display_name": "Rings"
+            },
+            {
+                "name": "pendants",
+                "display_name": "Pendants"
+            },
+            {
+                "name": "bracelets",
+                "display_name": "Bracelets"
+            },
+            {
+                "name": "earrings",
+                "display_name": "Earrings"
+            },
+            {
+                "name": "view all",
+                "display_name": "View All"
+            }
+        ]
+    },
+    {
+        "name": "kids",
+        "sub_category": [
+            {
+                "name": "earrings",
+                "display_name": "Earrings"
+            },
+            {
+                "name": "pendants",
+                "display_name": "Pendants"
+            },
+            {
+                "name": "view all",
+                "display_name": "View All"
+            }
+        ]
+    }
+]
